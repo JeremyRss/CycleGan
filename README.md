@@ -1,5 +1,7 @@
 # CycleGan
 Implementation of cycle gan 
 
-https://github.com/JeremyRss/CycleGan
-![My image](https://github.com/JeremyRss/CycleGan/cycleGanResult.png)
+
+![My image](/images/1.png)
+![My image](/images/2.png)
+![My image](/images/3.png)
